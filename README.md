@@ -1,7 +1,7 @@
 # Netflix Userbase Analysis
 ## Overview
 
-* This project analyzes a dataset containing information about users. The dataset includes user attributes such as subscription type, country, age, device used and dates related to their subscription activities. The goal of this analysis is to reveal patterns in user demographics, subscription behaviors, which can inform business decisions and marketing strategies for Netflix.
+* This project analyzes a dataset containing information about Netflix users. The dataset includes user attributes such as subscription type, country, age, device used and dates related to their subscription activities. The goal of this analysis is to reveal patterns in user demographics, subscription behaviors, which can inform business decisions and marketing strategies for Netflix.
 
 ## Objectives
 * Ensure the dataset is free from errors, missing values, and inconsistencies.
